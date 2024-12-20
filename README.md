@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/89f410b5-5a67-4ebb-99f7-2a4bf1fa7794
 
 
 ## NASA Ephemeral Data
-To see how I got the NASA data, I used the JPL Horizons System API, fetched using python in this project: ![https://github.com/dpaetsch/nasa_horizons_api]
+To see how I got the NASA data, I used the JPL Horizons System API, fetched using python in this project: https://github.com/dpaetsch/nasa_horizons_api
